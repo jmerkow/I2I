@@ -10,20 +10,20 @@ Steps to use:
 
 Please cite I2I in your publications if it helps your research **(To be updated to MICCAI)**:
 
-  @article{DBLP:journals/corr/MerkowKMT16,
-  author    = {Jameson Merkow and
+    @article{DBLP:journals/corr/MerkowKMT16,
+    author    = {Jameson Merkow and
                David J. Kriegman and
                Alison Marsden and
                Zhuowen Tu},
-  title     = {Dense Volume-to-Volume Vascular Boundary Detection},
-  journal   = {CoRR},
-  volume    = {abs/1605.08401},
-  year      = {2016},
-  url       = {http://arxiv.org/abs/1605.08401},
-  timestamp = {Wed, 01 Jun 2016 15:51:08 +0200},
-  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/MerkowKMT16},
-  bibsource = {dblp computer science bibliography, http://dblp.org}
-}
+    title     = {Dense Volume-to-Volume Vascular Boundary Detection},
+    journal   = {CoRR},
+    volume    = {abs/1605.08401},
+    year      = {2016},
+    url       = {http://arxiv.org/abs/1605.08401},
+    timestamp = {Wed, 01 Jun 2016 15:51:08 +0200},
+    biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/MerkowKMT16},
+    bibsource = {dblp computer science bibliography, http://dblp.org}
+    }
 
 
 ## Bugs
